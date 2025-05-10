@@ -54,7 +54,7 @@ function DeclineInvite() {
         <p className="text-lg text-white mb-4">Thank you for letting us know!<br/>Maybe next time, Muggle duties call. 🪄</p>
         <div className="bg-[#3a384d] border border-[#ffe066] rounded-lg p-4 mb-6 text-left text-white">
           <div><b>🎬 Movie:</b> Harry Potter and the Sorcerer&apos;s Stone</div>
-          <div><b>📅 Date:</b> Saturday, May 11, 2024</div>
+          <div><b>📅 Date:</b> Sunday, May 11, 2025</div>
           <div><b>⏰ Time:</b> 9:00 PM</div>
           <div><b>🏰 Location:</b> jie jie maganda Discord server</div>
         </div>
